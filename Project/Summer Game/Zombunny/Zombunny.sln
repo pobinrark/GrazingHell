@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombunny.CSharp", "Zombunny.CSharp.csproj", "{533F165E-7544-410F-7795-9D4058FCCC5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zombunny.CSharp.Editor", "Zombunny.CSharp.Editor.csproj", "{76DBA4DA-F8DD-5C0C-BCE4-5247346C151F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{533F165E-7544-410F-7795-9D4058FCCC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{533F165E-7544-410F-7795-9D4058FCCC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{533F165E-7544-410F-7795-9D4058FCCC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{533F165E-7544-410F-7795-9D4058FCCC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76DBA4DA-F8DD-5C0C-BCE4-5247346C151F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76DBA4DA-F8DD-5C0C-BCE4-5247346C151F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76DBA4DA-F8DD-5C0C-BCE4-5247346C151F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76DBA4DA-F8DD-5C0C-BCE4-5247346C151F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,29 @@
+Mono path[0] = 'D:/IntermediateGames/Project/Baahd Sheep/Robin's Build 4.6.16_Data/Managed'
+Mono path[1] = 'D:/IntermediateGames/Project/Baahd Sheep/Robin's Build 4.6.16_Data/Mono'
+Mono config path = 'D:/IntermediateGames/Project/Baahd Sheep/Robin's Build 4.6.16_Data/Mono/etc'
+PlayerConnection initialized from D:/IntermediateGames/Project/Baahd Sheep/Robin's Build 4.6.16_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55187
+Multi-casting "[IP] 192.168.1.12 [Port] 55187 [Flags] 2 [Guid] 671135850 [EditorId] 3786572101 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-NF93235) [Debug] 0" to [225.0.0.222:54997]...
+PlayerConnection already initialized - listening to [192.168.1.12:55187]
+Initialize engine version: 5.3.2f1 (e87ab445ead0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960 (ID=0x1401)
+    Vendor:   NVIDIA
+    VRAM:     2016 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\IntermediateGames\Project\Baahd Sheep\Robin's Build 4.6.16_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\IntermediateGames\Project\Baahd Sheep\Robin's Build 4.6.16_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\IntermediateGames\Project\Baahd Sheep\Robin's Build 4.6.16_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\IntermediateGames\Project\Baahd Sheep\Robin's Build 4.6.16_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\IntermediateGames\Project\Baahd Sheep\Robin's Build 4.6.16_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\IntermediateGames\Project\Baahd Sheep\Robin's Build 4.6.16_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\IntermediateGames\Project\Baahd Sheep\Robin's Build 4.6.16_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\IntermediateGames\Project\Baahd Sheep\Robin's Build 4.6.16_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.201 seconds
+Platform assembly: D:\IntermediateGames\Project\Baahd Sheep\Robin's Build 4.6.16_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\IntermediateGames\Project\Baahd Sheep\Robin's Build 4.6.16_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1093 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.

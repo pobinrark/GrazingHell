@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baahd Sheep.CSharp", "Baahd Sheep.CSharp.csproj", "{2BBF78E3-D1D1-2351-A2EF-791E30DC4088}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BBF78E3-D1D1-2351-A2EF-791E30DC4088}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BBF78E3-D1D1-2351-A2EF-791E30DC4088}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BBF78E3-D1D1-2351-A2EF-791E30DC4088}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BBF78E3-D1D1-2351-A2EF-791E30DC4088}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

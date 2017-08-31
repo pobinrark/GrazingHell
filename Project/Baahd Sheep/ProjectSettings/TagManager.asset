@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - projectile
+  - Enemy
+  - floor
+  - safe
+  - hostile
+  - dummy
+  - Enemy2
+  - health
+  - portal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Fireball
+  - Floor
+  - SafeProjectile
+  - HostileProjectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Particles
+    uniqueID: 3847042365
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

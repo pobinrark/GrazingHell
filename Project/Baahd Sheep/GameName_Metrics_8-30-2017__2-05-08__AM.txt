@@ -1,0 +1,5 @@
+Bean alive for: 21.06622seconds
+Boss1 alive for: 6.453619seconds
+Boss2 alive for: 0seconds
+Number of Swings Boss1: 0
+Number of Swings Boss2: 0

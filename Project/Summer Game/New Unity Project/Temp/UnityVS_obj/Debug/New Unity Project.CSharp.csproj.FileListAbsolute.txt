@@ -1,0 +1,13 @@
+D:\IntermediateGames\Project\Summer Game\New Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+D:\IntermediateGames\Project\Summer Game\New Unity Project\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+D:\IntermediateGames\Project\Summer Game\New Unity Project\Temp\UnityVS_bin\Debug\UnityEditor.dll
+D:\IntermediateGames\Project\Summer Game\New Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.dll
+D:\IntermediateGames\Project\Summer Game\New Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+D:\IntermediateGames\Project\Summer Game\New Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+D:\IntermediateGames\Project\Summer Game\New Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.xml
+D:\IntermediateGames\Project\Summer Game\New Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+D:\IntermediateGames\Project\Summer Game\New Unity Project\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+D:\IntermediateGames\Project\Summer Game\New Unity Project\Temp\UnityVS_bin\Debug\UnityEditor.xml
+D:\IntermediateGames\Project\Summer Game\New Unity Project\Temp\UnityVS_obj\Debug\New Unity Project.CSharp.csprojResolveAssemblyReference.cache
+D:\IntermediateGames\Project\Summer Game\New Unity Project\Temp\UnityVS_obj\Debug\Assembly-CSharp.dll
+D:\IntermediateGames\Project\Summer Game\New Unity Project\Temp\UnityVS_obj\Debug\Assembly-CSharp.pdb

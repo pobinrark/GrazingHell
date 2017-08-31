@@ -1,0 +1,33 @@
+<!DOCTYPE SceneVersion>
+<SceneVersion VersionName="Bean_Attack" ID="1">
+ <Element Name="BeanAttack" ID="2" Folder="BeanAttack">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Body" ID="6" Folder="Body">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+  <Drawing Key="" Name="3" Version="1"/>
+ </Element>
+ <Element Name="Staff" ID="7" Folder="Staff">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+ </Element>
+ <Element Name="Head" ID="8" Folder="Head">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+ </Element>
+ <Element Name="WalkCycle" ID="9" Folder="WalkCycle">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+ <Element Name="Hat" ID="10" Folder="Hat">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+ </Element>
+ <Element Name="Hair" ID="11" Folder="Hair">
+  <Drawing Key="" Name="1" Version="1"/>
+  <Drawing Key="" Name="2" Version="1"/>
+ </Element>
+ <Element Name="Drawing" ID="12" Folder="Drawing">
+  <Drawing Key="" Name="1" Version="1"/>
+ </Element>
+</SceneVersion>
